@@ -1,0 +1,33 @@
+{
+  "name": "d3-scale-util",
+  "version": "0.0.1",
+  "description": "Simple d3 scale generator",
+  "scripts": {
+    "start": "",
+    "build": "webpack",
+    "test": "mocha",
+    "test-watch": "mocha --watch --compilers js:mocha-babel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kdoh/begin"
+  },
+  "author": "Kyle Doherty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kdoh/begin/issues"
+  },
+  "homepage": "https://github.com/kdoh/begin",
+  "dependencies": {
+    "d3": "^3.5.6",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-runtime": "^5.8.24",
+    "mocha": "^2.3.2",
+    "mocha-babel": "^3.0.0",
+    "should": "^7.1.0",
+    "webpack": "1.10.1"
+  }
+}
