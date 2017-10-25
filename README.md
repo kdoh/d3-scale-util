@@ -1,4 +1,6 @@
 # begin
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/kdoh/d3-scale-util.svg)](https://greenkeeper.io/)
 Simple starting point for new projects and tomfoolery.
 
 # features
